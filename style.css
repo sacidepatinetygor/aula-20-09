@@ -1,3 +1,7 @@
-#copa
-#jogador
-#atacante
+#taca {
+  width:100%;
+}
+
+body {
+  background:blue;
+}
